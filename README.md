@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhaval
-- 👀 I’m interested in learning python, building ML models & useful visualizations for FSI domain, and exploring use cases for dapp. 
+- 👀 I’m interested in building ML models & useful visualizations for FSI domain, and exploring use cases for dapp. 
 - 🌱 I’m currently learning AI ML and dapps
 - 💞️ I’m looking to collaborate on any of the above topics
 - 📫 How to reach me - Just connect on LinkedIn
