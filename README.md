@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dhaval
-- 👀 I’m interested in building ML models & useful visualizations for FSI domain, and exploring use cases for dapp in the worold of DeFi. 
+- 👋 Hi, I’m Dhaval Patel
+- 👀 I’m interested in building ML models & useful visualizations for FSI domain, and exploring use cases for dApps in the world of DeFi. 
 - 🌱 I’m currently learning AI ML and Solidity
 - 💞️ I’m looking to collaborate on any of the above topics
 - 📫 How to reach me - Just connect on LinkedIn
